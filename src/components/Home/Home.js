@@ -15,7 +15,6 @@ const Home = () => {
                     <Shoe></Shoe>
                     <Shoe></Shoe>
                     <Shoe></Shoe>
-                    <Shoe></Shoe>
                 </div>
             </div>
         </div>
